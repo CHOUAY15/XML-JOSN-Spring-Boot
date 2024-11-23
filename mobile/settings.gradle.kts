@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TPCompte"
+rootProject.name = "CompteXMLJSON"
 include(":app")
