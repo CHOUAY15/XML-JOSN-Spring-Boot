@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.compteXmlJson"
+    namespace = "com.example.tpCompte"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.compteXmlJson"
+        applicationId = "com.example.tpCompte"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
